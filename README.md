@@ -1,11 +1,11 @@
 # AlbionKillBot
 A Bot that posts kills and battles to Discord
 
-![](http://i.imgur.com/iOeQiyE.png)
+![](https://cloud.lervo.de/index.php/apps/files_sharing/publicpreview/XHp9nBMoXzj4jPP?x=2880&y=856&a=true&file=Github_03.png)
 
-![](https://i.imgur.com/yoNM5mS.png)
+![](https://cloud.lervo.de/index.php/apps/files_sharing/publicpreview/si36etabBERBPxQ?x=2880&y=856&a=true&file=Github_01.png)
 
-![](http://i.imgur.com/LEu1xkR.png)
+![](https://cloud.lervo.de/index.php/apps/files_sharing/publicpreview/S6ZwxatMn8LM9T2?x=2880&y=856&a=true&file=Github_05.png)
 
 ## Simplified Instructions
 
@@ -15,7 +15,7 @@ A Bot that posts kills and battles to Discord
  - `npm install` to install node dependencies
 
 - The folder should look like this
-![N|Solid](http://i.imgur.com/2SKHrU6.png)
+![N|Solid](https://cloud.lervo.de/index.php/apps/files_sharing/publicpreview/SQjTJ6adcXbR5Eb?x=2880&y=856&a=true&file=Github_02.png)
 
  - Add bot secret token to the auth.json
  - Open auth.json and add your bot token
